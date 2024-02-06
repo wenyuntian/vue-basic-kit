@@ -2,11 +2,11 @@
   "name": "@vue-basic-kit/utils",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }

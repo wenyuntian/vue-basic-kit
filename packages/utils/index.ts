@@ -1,4 +1,3 @@
-export type TestType= { a: string }
+export type TestType = { a: string };
 
-export const a: number[] = [1,2]
- 
+export const a: number[] = [1, 2];

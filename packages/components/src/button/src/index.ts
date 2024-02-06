@@ -1,1 +1,1 @@
-export type ButtonProps = { size: "small" | "large" }
+export type ButtonProps = { size: 'small' | 'large' };

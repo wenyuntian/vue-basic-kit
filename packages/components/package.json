@@ -2,12 +2,12 @@
   "name": "@vue-basic-kit/components",
   "version": "0.0.1",
   "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
     "type-check": "vue-tsc --composite false --noEmit"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
