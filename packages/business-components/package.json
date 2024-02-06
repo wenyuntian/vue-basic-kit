@@ -1,0 +1,12 @@
+{
+  "name": "@vue-basic-kit/business-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "type-check": "vue-tsc --composite false --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
