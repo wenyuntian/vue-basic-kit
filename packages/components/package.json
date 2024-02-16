@@ -5,9 +5,15 @@
   "keywords": [],
   "license": "ISC",
   "author": "",
-  "main": "index.js",
+  "main": "lib/components/index.js",
+  "module": "es/components/index.mjs",
+  "types": "es/components/index.d.ts",
   "scripts": {
-    "build": "tsc",
+    "build": "gulp -f ./scripts/build/index.ts",
+    "build:components": "vite build",
     "type-check": "vue-tsc --composite false --noEmit"
+  },
+  "peerDependencies": {
+    "vue": "^3.4.15"
   }
 }

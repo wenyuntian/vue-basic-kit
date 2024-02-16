@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "dist", // 指定输出目录
+    "outDir": ".", // 指定输出目录
     "target": "es2018", // 目标语言的版本
     "module": "esnext", // 生成代码的模板标准
     "declaration": true,
