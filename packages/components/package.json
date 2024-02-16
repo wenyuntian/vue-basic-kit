@@ -5,9 +5,8 @@
   "keywords": [],
   "license": "ISC",
   "author": "",
-  "main": "lib/components/index.js",
-  "module": "es/components/index.mjs",
-  "types": "es/components/index.d.ts",
+  "main": "index.ts",
+  "module": "index.ts",
   "scripts": {
     "build": "gulp -f ./scripts/build/index.ts",
     "build:components": "vite build",
